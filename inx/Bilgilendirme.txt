@@ -1,0 +1,90 @@
+Scripti veritabaný gerektirmez, dilediðiniz herhangi bir hosting üzerine yükleyebilirsiniz. Ýsterseniz kendinize göre editleyebilirsiniz.
+
+Head alanýnda düzenlemeniz gereken yerler vardýr.
+
+1. Düzenlemeniz gereken yerler ise, arama motorlarýnýn webmaster tools tanýmlamalarýný yapacak iseniz. Kendi doðrulama kodlarýnýzý giriniz.
+
+<meta name="google-site-verification" content="Google Webmaster Araçlarý  Doðrulama Kodu" />
+
+<meta name="msvalidate.01" content="Bing Webmaster Araçlarý Doðrulama Kodu" />
+
+<meta name="yandex-verification" content="Yandex Webmaster Araçlarý Doðrulama Kodu" />
+
+
+
+2. Onesignal Bildirim sistemine üye olunuz ve Key numarasýný giriniz. 
+
+"       appId: "Onesignal Api Anahtarý" "
+
+3. Google Yapýsal verileri iþlenmiþ durumda, bu alaný da kendi siteniz ve firmanýza göre editlemelisiniz.
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://instagram.kurumsal.shop/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://instagram.kurumsal.shop//search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Blogcu - Blog Scripti",
+  "url": "https://instagram.kurumsal.shop/",
+  "sameAs": [
+    "http://www.facebook.com/kurumsalshop",
+    "http://www.twitter.com/kurumsalshop",
+    "https://plus.google.com/104420557581853445760",
+	"http://www.pinterest.com/kurumsalshop",
+	"http://www.instagram.com/kurumsalshop",
+	"http://www.linkedin.com/in/kurumsalshop",
+	"http://www.vk.com/kurumsalshop"
+  ]
+}
+
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://instagram.kurumsal.shop/",
+  "logo": "https://instagram.kurumsal.shop/img/logo.png",
+  "contactPoint": [
+    { "@type": "ContactPoint",
+      "telephone": "+90-0224-233-1020",
+      "contactType": "customer service"
+    }
+  ]
+}
+
+
+</script>
+
+Youtube kanalýmýza abone olmanýz dileðiyle.
+
+4. Body alt kýsmýnda Google Analytics izleme kodunuzu kendinize göre düzenleyiniz.
+
+Biliyoruz ki sizden ricamýzý yerine getirmeyeceksiniz, þimdiden teþekkür ederiz.
+Aþaðýdaki sosyal aðlarýmýzý beðenip takipe alýrsanýz seviniriz.
+
+https://twitter.com/KurumsalShop
+https://about.me/kurumsal/
+https://www.facebook.com/KurumsalShop
+https://www.youtube.com/channel/UC0HcybKeE21giEFt8Pz0vJw
+https://plus.google.com/104420557581853445760
+https://www.instagram.com/kurumsalshop/
+https://www.linkedin.com/in/kurumsalshop/
+https://vk.com/kurumsalshop
+www.ok.ru/kurumsal
+https://www.linkedin.com/company/kurumsal-shop/
